@@ -2,7 +2,7 @@
   "name": "coin-hive-docker",
   "version": "1.0.0",
   "scripts": {
-    "start": "node coin-hive"
+    "start": "node miner"
   },
   "dependencies": {
     "coin-hive": "latest"
